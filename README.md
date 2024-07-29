@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KalaiKathirSJ
-- 👀 I’m interested in ...python
-- 🌱 I’m currently learning ...AI&DS
+- 👋 Hi, I’m @KalaiKathir S J
+- 👀 I’m interested in ...Machine learning and Data analytics.
+- 🌱 I’m currently learning ...ARTIFICIAL INTELLIGENCE AND DATA SCIENCE.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...kalaikathir.j2021@kgkite.ac.in
+- 📫 How to reach me ...kalaikathirkk01@gmail.com
 
 <!---
 KalaiKathirSJ/KalaiKathirSJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
