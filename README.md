@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KalaiKathir S J
-- 👀 I’m interested in ...Machine learning and Data analytics.
+- 👀 I’m interested in ...Machine Learning and Data Analytics.
 - 🌱 I’m currently learning ...ARTIFICIAL INTELLIGENCE AND DATA SCIENCE.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Data Analytics Projects.
 - 📫 How to reach me ...kalaikathirkk01@gmail.com
 
 <!---
